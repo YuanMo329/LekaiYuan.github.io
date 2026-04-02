@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-YourGitHubID-blue?logo=github)](https://github.com/YuanMo329/)
-
-I am currently an undergraduate student majoring in **Data Science and Big Data Technology**
+#### Lekai Yuan
+I am Lekai Yuan, an undergraduate student majoring in **Data Science and Big Data Technology**
 at South China Normal University, Guangzhou, China.
 
 #### Email
